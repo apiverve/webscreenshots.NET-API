@@ -71,7 +71,7 @@ Using the API client, you can perform requests to the API.
 
 ```
 var queryOptions = new WebsiteScreenshotQueryOptions {
-  url = "https://www.myspace.com/",
+  url = "https://ebay.com/",
   type = "png",
   width = 1024,
   height = 600,
@@ -101,10 +101,10 @@ if(response.error != null) {
     "width": 1024,
     "height": 600,
     "scaleFactor": 1,
-    "imageName": "b073a23b-3d80-4641-a6e0-440630915b05.png",
-    "expires": 1722740935243,
-    "url": "https://www.myspace.com/",
-    "downloadURL": "https://storage.googleapis.com/apiverve.appspot.com/webscreenshots/b073a23b-3d80-4641-a6e0-440630915b05.png?GoogleAccessId=635500398038-compute%40developer.gserviceaccount.com&Expires=1722740935&Signature=ZSlwXOdQyER71uVEKATC0jw8aMdKqgdYa0qTQvKyjdhjHM5CyiNLzqzsq1aDp8y%2F9u9tOl%2Btuzgxm%2F7ho8YXMKRBvL0oMQjRhK%2FpwmBVI98ecMu2Z50hgtbEfLpUMAHN0Ld6D%2FKGSl7gPHS0lMSKhGHVJ1ory6HJ%2BKgpN2NcbfTuwNtLh1rbrLzrGW6WuRgqjrgrt2DCzuU5KPQPJmC4VvbZX98llTmjECdJmHZ2moh26AmzUJN3s4Z4eizm8zWpb%2BTTPHVPivPEmBfTQYb0N9kpVCDFAzTAKdI53weUkH4NGoe86Tdr7%2Bm1XqKw3t9Pi2IDhtU7iMFQ42cKmlEfBA%3D%3D"
+    "imageName": "78bdb087-756b-4107-83e1-82fd40171ed1.png",
+    "expires": 1725356395837,
+    "url": "https://ebay.com/",
+    "downloadURL": "https://storage.googleapis.com/apiverve-helpers.appspot.com/webscreenshots/78bdb087-756b-4107-83e1-82fd40171ed1.png?GoogleAccessId=1089020767582-compute%40developer.gserviceaccount.com&Expires=1725356395&Signature=jqAuoBhrbsSqs61blsFdnXEU35QOanhFnL0FN2d82cDDTXAUWonuRURUjyyhmABe02dVD3sMpvQDh0V39ROFcukPFASdIhr4HdWnKl743JLx03jrW%2FJ2baK3lZCZemPkS%2F61VqcHV1YB5XsxqsDNNkQ8QL8xlzUslHUgjuVKsorDCpBL5iFPSLo0l5DO3wvZ6UudJJP11j1MAnRmWQC7%2FkUBc7AP4akQvm6N7lftFkx8z6%2FptdxBt60w1XR6Ixoy6Vl31tvd6UjyWhjmF8JbujRSRYXmh0vjTNZBp5BX7xUntQUSMXhQf%2Bj3bXq7ZcsfMAAtqonqbzC6SBZgzSu2kA%3D%3D"
   },
   "code": 200
 }
